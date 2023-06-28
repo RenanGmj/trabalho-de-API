@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "email": "caique@senai.com",
+      "password": "123",
+      "nome": "caique",
+      "id": "1"
+    },
+    {
+      "email": "pedro@senai.com",
+      "password": "$2a$10$mr9D1RX0cpoc0k./9byqberKh.Di8B.B./haD2.cgUTcMZnare5Am",
+      "nome": "pedro",
+      "id": "Ki2YMIz"
+    },
+    {
+      "name": "mateus",
+      "email": "mateuzin.123@gmail.com",
+      "password": "123456",
+      "id": "n4UbMXb"
+    },
+    {
+      "email": "renan@senai.com",
+      "password": "123456",
+      "nome": "renan",
+      "id": "V3dfVPK"
+    },
+    {
+      "email": "robert@senai.com",
+      "password": "123456çdd",
+      "nome": "robert",
+      "id": "dZPjOSR"
+    }
+  ],
+  "noticias": [
+    {
+      "id": 1,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Ps5 mais barato?",
+      "descricao": "Sony destruindo com mercado de games"
+    },
+    {
+      "id": 2,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "xbox perdeu a corrida",
+      "descricao": "Ceo diz estar perdendo acorrida dos games"
+    },
+    {
+      "id": 3,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Nova geração de consoles realmente compensou",
+      "descricao": "houve mudanças?"
+    },
+    {
+      "id": 4,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Ea sports novidade",
+      "descricao": "novos jogos"
+    },
+    {
+      "id": 5,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "jogos nas olimpiadas?",
+      "descricao": "Nova era"
+    },
+    {
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Copa de jogos começa em abril",
+      "descricao": "Copa EA",
+      "id": 7
+    },
+    {
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Blizzard sera da microsoft?",
+      "descricao": "o que isso significa?",
+      "id": 8
+    }
+  ]
+}
